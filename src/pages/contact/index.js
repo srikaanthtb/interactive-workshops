@@ -91,7 +91,7 @@ export default class Index extends React.Component {
                     I agree not to bring my pet(s) this year
                   </label>
                   <div className="control">
-                    <textarea
+                    <input
                       className="checkbox"
                       type="checkbox"
                       name={'nopets'}
